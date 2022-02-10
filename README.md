@@ -5,6 +5,7 @@ Contains Google Colab Notebooks for EX data processing, analytics, and more. The
 
 Tools in this repository should
   - Accept raw data directly from instrumentation wherever possible
-  - Not require closed-source or proprietary tools to operate
+  - Avoid closed-source or proprietary interfaces
   - Come with clear documentation for continued use, adaptability, and future development
-  - Conduct data within FAIR principles wherever possible
+  - Conduct data within FAIR principles
+  - Operate as "Notebook" style documents, showing intermediate results and operations
