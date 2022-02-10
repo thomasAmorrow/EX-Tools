@@ -1,4 +1,4 @@
-# EX-tools
+# EX-Tools
 Collaborative space for Okeanos Explorer Colab Notebooks, Wiki, and other tools
 
 Contains Google Colab Notebooks for EX data processing, analytics, and more. The hopeful goal is to build foundations for a unified ocean exploration data pipeline that is platform-agnostic, and can serve as a model for other ocean exploration operations.
